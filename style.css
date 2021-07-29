@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: sans-serif;
+  font-family: 'Poppins', sans-serif;
     
 }
 
@@ -194,10 +194,7 @@ nav{
     margin: 1rem 0;
   }
   
-  .service1 i,
-  .service1 h4,
-  .service1 .cta {
-  }
+
   
   .service .cta span {
     font-size: 0.6rem;
@@ -209,6 +206,14 @@ nav{
   
   .service .cta {
     align-self: flex-end;
+  }
+
+  .dishtv-label{
+    margin-left: -20px;
+  }
+
+  .dth-icon{
+    margin-top:30px;
   }
   
   @media all and (max-width:900px) {
@@ -234,7 +239,6 @@ nav{
       height: 3px;
       background: #fff;
       margin: 5px;
-     
     }
     nav {
       position: relative;
@@ -275,6 +279,29 @@ nav{
       pointer-events: all;
  
     }
+
+    .card-body{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      text-align: center;
+      font-weight: bold;
+      margin: 1%;
+  }
+
+  .beauty-for-women{
+    margin-top:30px;
+    margin-left:-10px
+  }
+
+  .electric-icon{
+    margin-top:30px;
+    margin-left:-20px
+  }
+  
+  .dth-icon{
+    margin-top:30px;
+  }
     
     
   }
