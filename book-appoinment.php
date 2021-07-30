@@ -5,9 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="canonical" href="#" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beauty For Women in Bangalore - Home Solutions </title>
+    <title>Carpenter Service in Bangalore - Home Solutions </title>
     <link rel="stylesheet" href="blogs.css">
-    <link rel="stylesheet" href="footer.css">
     <script type="application/ld+json">
     
     </script>
@@ -42,16 +41,17 @@
         integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
 </head>
-<body>
+
+<body class="bg-light">
 
 
   
-    <div class="banner-beauty" >
+    <div class="banner-contact">
         <nav>
             <div class="hamburger">
                 <div class="line"></div>
@@ -62,79 +62,67 @@
                  
                 <li class="text-white"><a href="index.html">Home</a></li>
                 <li> <a href="contact.html">Contact us</a> </li>
-                <li> <a href="carpenter.html">Carpenter</a> </li>
+                <li> <a href="plumber.html">Plumber</a> </li>
             </ul>
         </nav>
         
         <div class="logo">
             <h4>Logo</h4>
         </div>
-        <h1 class="heading">Beauty For Women </h1>
+        <h1 class="heading">Book appointment</h1>
 
 
     </div>
-
-    <div class="container mt-3">
+  
+    <div class="container mt-5">
         <div class="row">
-            <div class="col-md-12 text-center">
-                <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                    <li class="nav-item" role="presentation">
-                      <button class="nav-link active" id="pills-mehandi-tab" data-bs-toggle="pill" data-bs-target="#pills-mehandi" type="button" role="tab" aria-controls="pills-mehandi" aria-selected="false">Mehandi</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                      <button class="nav-link" id="pills-wedding-makup-tab" data-bs-toggle="pill" data-bs-target="#pills-wedding-makup" type="button" role="tab" aria-controls="pills-wedding-makup" aria-selected="false">Wedding Makeup</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-invitation-card-tab" data-bs-toggle="pill" data-bs-target="#pills-invitation-card" type="button" role="tab" aria-controls="pills-invitation-card" aria-selected="false">Invitation Card</button>
-                      </li>
-                  </ul>
-                  <div class="tab-content" id="pills-tabContent">
-              
-                    <div class="tab-pane fade show active text-justify" id="pills-mehandi" role="tabpanel" aria-labelledby="pills-mehandi-tab">
-                      <div class="container">
-                        <div class="row">
-                            <div class="col-md-12 mt-3">
-                             <p class="text-justify">
-                                Mehendi has been an integral part of Indian culture all through the eras of the Rajas and Maharajas to Mughals and till today in the modern times. Earlier which was an auspicious sign of prosperity, now it defines the personality of the brides. We, Mehandi Art from Bangalore are a team of creative individuals who have something for every bride be it a traditional bride or a modern bride who wants contemporary designs. Our designs will make sure to portray your story in a creative way. We make sure to use only herbal products which will not harm your skin yet produce the best colour on your special day. Also, for those grooms and their friends who feel left alone on a mehendi function, we have quite a few ranges of masculine designs which will definitely enhance their style statement on the wedding day. You can book our services via  Home Solutions  for the best prices. Stay healthy and colourful!
-                             </p>
-                            </div>
-                           
-                        </div>
-                      </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-wedding-makup" role="tabpanel" aria-labelledby="pills-wedding-makup-tab">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12 mt-4">
-                                  <p class="text-justify">
-                                    Are you going to a bride really soon or if you are planning to attend an exciting wedding soon?  when it comes to weddings, makeup plays a vital role for the bride to look breathtaking on her big day. whether you are a bridezilla or bridechilla you always want nothing but the best for your makeup and hair. it is very tasking sometimes to pick the best makeup artist for yourself. don’t worry, we have one of the best makeup artists in bangalore to address your queries and give you the desired look according to your skin tone, attire and season. 
-                                    We all believe all women are pretty without makeup - but with the right makeup can be pretty powerful. 
-                                  </p>
-                                </div>
-                               
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="pills-invitation-card" role="tabpanel" aria-labelledby="pills-invitation-card-tab">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12 mt-4">
-                                  <p class="text-justify">
-                                    Want to print invitation cards with the best design? Yes we are here to bring all your ideas live on your invitation cards through our hard work and best customer service. We Print Goal Products and Services from Bangalore who can provide you the best printing services. We use the best quality paper, innovative designs and new printing services in order to make you happy and satisfied by our services. We cater our customers with the highest quality products and services at the most competitive rates, and we promise to surpass your expectations, granting the commodities on time and in the budget. We keep customer service at the top of our list and apply modern instruments to present with the fittest products at all times.
-                                  </p>
-                                </div>
-                               
-                            </div>
-                        </div>
-                    </div>
-                  </div>
-            </div>
+          <div class="col-md-3"></div> 
+          <div class="col-md-6">
+             <div class="card">
+                <div class="card-header bg-success text-white">Book your appoinments here</div>
+                <div class="card-body">
+                 <div class="form-group mb-2">
+                    <label>Name</label>
+                    <input type="text" class="form-control" />
+                 </div>
+                 <div class="form-group  mb-2">
+                  <label>Email-ID</label>
+                  <input type="text" class="form-control" />
+               </div>
+               <div class="form-group  mb-3">
+                  <label>Mobile No</label>
+                  <input type="text" class="form-control" />
+               </div>
+               <div class="form-group  mb-2">
+                  <label>Choose Services</label>
+                 <select class="form-control">
+                    <option>...</option>
+                    <option>Painting</option>
+                    <option>Choose services</option>
+                    <option>Choose services</option>
+                    <option>Choose services</option>
+                 </select>
+               </div>
+               <div class="form-group  mb-3">
+                  <label>Date</label>
+                  <input type="date" class="form-control" />
+               </div>
+               <div class="form-group  mb-3">
+                  <label>Date</label>
+                  <input type="time" class="form-control" />
+               </div>
+                <div >
+                   <button class="btn btn-primary">Book Appointment</button>
+                </div>
+                </div>
+             </div>
+          </div> 
+          <div class="col-md-3"></div> 
+            
         </div>
     </div>
-  
-  
 
-    <footer class="container-fluid bg-grey py-5 mt-5">
+      <footer class="container-fluid bg-grey py-5 mt-5">
         <div class="container mt-2">
            <div class="row">
               <div class="col-md-6">
@@ -199,3 +187,4 @@
 </body>
 <script src="app.js"></script>
 </html>
+

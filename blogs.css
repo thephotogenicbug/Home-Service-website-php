@@ -43,12 +43,52 @@ nav{
   
   }
 
-  .banner {
+  .banner-carpenter {
     height:450px;
     background-position: center 100%;
+    background: linear-gradient(rgba(44, 43, 43, 0.473), rgba(36, 27, 29, 0.459)), url("images/carpenter-banner.jpg");
     background-size: cover ;
-    background-color: tomato;
   
+  }
+
+  .banner-plumber{
+    height:450px;
+    background-position: center 100%;
+    background: linear-gradient(rgba(44, 43, 43, 0.473), rgba(36, 27, 29, 0.459)), url("images/plumber-banner.jpg");
+    background-size: cover ;
+  }
+  .banner-electrician{
+    height:450px;
+    background-position: center 100%;
+    background: linear-gradient(rgba(44, 43, 43, 0.473), rgba(36, 27, 29, 0.459)), url("images/electrician-banner.jpg");
+    background-size: cover ;
+  }
+  .banner-flooring{
+    height:450px;
+    background-position: center 100%;
+    background: linear-gradient(rgba(44, 43, 43, 0.473), rgba(36, 27, 29, 0.459)), url("images/Flooring-works.jpeg");
+    background-size: cover ;
+  }
+
+  .banner-painter{
+    height:500px;
+    background-position: center 100%;
+    background: linear-gradient(rgba(44, 43, 43, 0.473), rgba(36, 27, 29, 0.459)), url("images/painter-banner.jpg");
+    background-size: cover ;
+  }
+
+  .banner-beauty{
+    height:450px;
+    background-position: center 100%;
+    background: linear-gradient(rgba(44, 43, 43, 0.473), rgba(36, 27, 29, 0.459)), url("images/beauty-banner.jpg");
+    background-size: cover ;
+  }
+
+  .banner-contact{
+    height:450px;
+    background-position: center 100%;
+    background: linear-gradient(rgba(44, 43, 43, 0.473), rgba(36, 27, 29, 0.459)), url("images/contact-us.jpg");
+    background-size: cover ;
   }
 
   .heading{
@@ -66,7 +106,7 @@ nav{
       .line {
         width: 30px;
         height: 3px;
-        background: #333;
+        background: #fff;
         margin: 5px;
       }
       nav {
@@ -121,10 +161,10 @@ nav{
       }
       footer p, a {
       font-size: 12px;
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Poppins', sans-serif;
       }
       footer h6 {
-      font-family: 'Playfair Display', serif;
+        font-family: 'Poppins', sans-serif;
       margin-bottom: 40px;
       position: relative;
       }
