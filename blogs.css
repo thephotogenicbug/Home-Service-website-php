@@ -1,0 +1,201 @@
+nav{
+    height:10vh;
+  
+    
+  }
+  .nav-links{
+    display: flex;
+    list-style: none;
+    width:30%;
+    height:100%;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: auto;
+    
+  }
+  .nav-links li a{
+    color:#fff;
+    font-weight: bold;
+    background:transparent;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .nav-links li a :hover{
+    color:orange;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  .logo{
+    color:#fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top:-45px;
+    margin-left:20px;
+    letter-spacing: 5px;
+    font-size: 16px;
+  }
+  
+  
+  #logo img{
+    margin-top:10px;
+  
+  
+  }
+
+  .banner {
+    height:450px;
+    background-position: center 100%;
+    background-size: cover ;
+    background-color: tomato;
+  
+  }
+
+  .heading{
+    display: flex;
+    margin-left: 40px;
+    margin-top:170px;
+    color:#ffff;
+    
+  }
+
+  .border{
+    border-radius: 5px;
+  }
+  @media screen and (max-width: 768px) {
+      .line {
+        width: 30px;
+        height: 3px;
+        background: #333;
+        margin: 5px;
+      }
+      nav {
+        position: relative;
+      }
+    
+      .hamburger {
+        position: absolute;
+        cursor: pointer;
+        right: 5%;
+        top: 50%;
+        transform: translate(-5%, -50%);
+        z-index: 200;
+      }
+    
+      .nav-links {
+        position: fixed;
+        background-color: #333;
+        
+        height: 100vh;
+        width: 100%;
+        flex-direction: column;
+        clip-path: circle(100px at 90% -10%);
+        -webkit-clip-path: circle(100px at 90% -20%);
+        transition: all 1s ease-out;
+        pointer-events: none;
+        z-index: 100;
+      }
+      
+      .nav-links li a{
+          color:#fff;
+          text-decoration: none;
+          font-size: 16px;
+      }
+     
+      .nav-links.open {
+        clip-path: circle(1000px at 90% -10%);
+        -webkit-clip-path: circle(1000px at 90% -10%);
+        pointer-events: all;
+    
+      }
+    }
+
+    .bg-grey {
+        background: #292929;
+      }
+      .logo-footer {
+        margin-bottom: 40px;
+      }
+      footer {
+            color: grey;
+      }
+      footer p, a {
+      font-size: 12px;
+      font-family: 'Roboto', sans-serif;
+      }
+      footer h6 {
+      font-family: 'Playfair Display', serif;
+      margin-bottom: 40px;
+      position: relative;
+      }
+      footer h6:after {
+      position: absolute;
+      content: "";
+      background: grey;
+      width: 12%;
+      height: 1px;
+      left: 0;
+      bottom: -20px;
+      }
+      .btn-footer {
+                 color: grey;
+              
+                text-decoration: none;
+                border: 1px solid;
+                border-radius: 43px;
+                font-size: 13px;
+                padding: 7px 30px;
+                line-height: 47px;
+      }
+      .btn-footer:hover {
+                
+                text-decoration: none;
+               
+      }
+      .form-footer input[type="text"] {
+        border: none;
+      border-radius: 16px 0 0 16px;
+      outline: none;
+      padding-left: 10px;
+      
+      }
+      ::placeholder {
+      font-size: 10px;
+      padding-left: 10px;
+      }
+      .form-footer input[type="button"] {
+      border: none;
+      background:#232323;
+        margin-left: -5px;
+      color: #fff;
+      outline: none;
+      border-radius: 0 16px 16px 0;
+      padding: 2px 12px;
+      }
+      .social .fa {
+      color: grey;
+      font-size: 22px;
+      padding: 10px 15px;
+      background: #3c3c3c;
+      }
+      footer ul li {
+      list-style: none;
+      display: block;
+      }
+      footer ul  {
+      padding-left: 0;
+      }
+      footer ul  li a{
+      text-decoration: none;
+      color: grey;
+      text-decoration:none;
+      }
+      a:hover {
+      text-decoration: none;
+      color: #f5f5f5 !important;
+      
+      }
+      .logo-part {
+      border-right: 2px solid grey;
+      height: 100%;
+      }
