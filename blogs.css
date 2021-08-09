@@ -102,6 +102,8 @@ nav{
   .border{
     border-radius: 5px;
   }
+
+ 
   @media screen and (max-width: 768px) {
       .line {
         width: 30px;
